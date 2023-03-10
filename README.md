@@ -2,6 +2,8 @@
 자바 국비 수업 사이드 프로젝트
 프로그램 : 카페 키오스크 프로그램
 
+![](https://velog.velcdn.com/images/bakdaehyun/post/f3ce7350-bef8-44f9-ab8c-c41b767d431b/image.PNG)
+
 기능 
 
 1. 카페 메뉴 출력
